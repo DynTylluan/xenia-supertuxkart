@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<kart name="Xenia" version="3" model-file="xenia.spm" icon-file="icon_large.png" minimap-icon-file="icon32.png" shadow-file="shadow.png" type="medium" groups="Add-Ons" rgb="0.91 0.55 0.07" revision="1">
+    <sounds engine="large">
+        <skid name="default"/>
+    </sounds>
+    <animations left="0" straight="9" right="19" start-winning="29" start-winning-loop="59" end-winning="119" start-losing="129" start-losing-loop="149" end-losing="199" backpedal-left="204" backpedal="224" backpedal-right="244" selection-start="249" selection-end="329" start-jump="339" end-jump="355"/>
+    <wheels>
+        <rear-right position="0.284184 0.119630 -0.392000" model="wheel-rear-right.spm"/>
+        <front-right position="0.301340 0.073793 0.357573" model="wheel-front-right.spm"/>
+        <rear-left position="-0.284184 0.119630 -0.392000" model="wheel-rear-left.spm"/>
+        <front-left position="-0.298889 0.073793 0.357573" model="wheel-front-left.spm"/>
+    </wheels>
+    <nitro-emitter>
+        <nitro-emitter-a position="-0.215846 0.287947 -0.680885"/>
+        <nitro-emitter-b position="0.228313 0.287947 -0.680885"/>
+    </nitro-emitter>
+    <exhaust file="kart_exhaust.xml"/>
+</kart>

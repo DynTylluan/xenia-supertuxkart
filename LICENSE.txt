@@ -1,0 +1,9 @@
+Xenia
+License: Creative Commons BY SA 4.0
+
+Creator: Massimo Gismondi
+
+The 3d models, the kart and textures are entirely made by me.
+
+
+The original character was first drawn by Alan Mackey in 1996.
