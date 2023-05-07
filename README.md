@@ -28,4 +28,6 @@ The original character was first drawn by Alan Mackey in 1996.
 
 ## Permalink
 
-https://online.supertuxkart.net/addons.php?type=karts&name=xenia 
+https://online.supertuxkart.net/addons.php?type=karts&name=xenia
+
+https://github.com/DynTylluan/xenia-supertuxkart
